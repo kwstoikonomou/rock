@@ -4,5 +4,6 @@ export default class Rock {
     this.weight = 534;
     this.weightMeasurement = 'gr';
     this.shape = 'round';
+    this.color = 'brown';
   }
 }
